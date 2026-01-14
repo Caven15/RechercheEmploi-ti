@@ -1,3 +1,4 @@
 Nom : [nom_test]
 Prénom : [prénom_test]
 E-mail : [E-mail_test]
+Hobbies : Gaming,Lecture
